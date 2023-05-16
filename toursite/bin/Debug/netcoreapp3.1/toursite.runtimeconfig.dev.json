@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\simag\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\simag\\.nuget\\packages"
+    ]
+  }
+}
